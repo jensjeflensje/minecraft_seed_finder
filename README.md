@@ -17,6 +17,11 @@ The script takes some options: the seed range, block radius, step size, and the 
 
 
 ## User guide
+Clone this repo:
+```shell
+git clone --recursive git@github.com:jensjeflensje/minecraft_seed_finder.git
+```
+
 The C program has a fixed list of biomes it wants. You can change this.
 To compile the program, execute the `compile.sh` script.
 
